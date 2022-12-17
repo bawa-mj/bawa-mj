@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Jayant.
+- 👀 I’m interested in Artificial Intelligence and Machine Learning
+- 🌱 I’m currently learning Python Programming
+- 💞️ I’m looking to collaborate on Projects.
+- 📫 How to reach me ? You can't lmao.
